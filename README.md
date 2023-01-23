@@ -12,4 +12,11 @@ In order to include decabits_auth gem in your application, following steps need 
 
 6. Gem is successfully installed in your application
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Routes 
+
+1. For signup ---- /decabits_auth/account_registrations
+2. For login ------ /decabits_auth/account/login
+
 
